@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\bin\Debug\4islrm.örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\bin\Debug\4islrm.örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\bin\Debug\4islrm.örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\_4islrm.örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\_4islrm.örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\4islrm.örnek\4islrm.örnek\obj\Debug\4islrm.örnek.pdb

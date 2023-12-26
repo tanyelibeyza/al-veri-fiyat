@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\bin\Debug\alışveriş-fiyatları.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\bin\Debug\alışveriş-fiyatları.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\bin\Debug\alışveriş-fiyatları.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş_fiyatları.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş_fiyatları.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\alışveriş-fiyatları\alışveriş-fiyatları\obj\Debug\alışveriş-fiyatları.pdb
